@@ -1,0 +1,5 @@
+{
+  "mongo": "mongodb://localhost/top-decks",
+  "seqApplicationUrl": "http://localhost:5341",
+  "seqApplicationKey": ""
+}
